@@ -1412,7 +1412,7 @@ body.open .site-content
     }
 
 }
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 540px) {
   .mobile {
     display: block;
   }
